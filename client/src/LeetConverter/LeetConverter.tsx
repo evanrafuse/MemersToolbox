@@ -46,7 +46,7 @@ const LeetConverter = () => {
 
     return(
         <div>
-            <h3>L337 C0NV3R73R</h3>
+            <h3>L337 C0NV3R73R - Evan Rafuse</h3>
             <input type="text" onChange={caseChange} maxLength={400}></input>
             <div>{caseText}</div>
         </div>

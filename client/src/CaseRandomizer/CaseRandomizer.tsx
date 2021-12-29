@@ -26,7 +26,7 @@ const CaseRandomizer = () => {
 
     return(
         <div>
-            <h3>Randomized Case</h3>
+            <h3>Randomized Case Text - Evan Rafuse</h3>
             <input type="text" onChange={caseChange} maxLength={400}></input>
             <div>{caseText}</div>
         </div>
